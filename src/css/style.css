@@ -168,11 +168,12 @@ font-weight: 400;
 margin: 10px 0;
 }
 .containerListaProdutos ul li span {
-font-size: 0.8rem;
-font-weight: 500;
-margin-top: 10px;
+font-size: 0.7rem;
+font-weight: 400;
+margin-top: 5px;
 display: inline-block;
-color: #212529;
+color: #868E96;
+
 }
 .containerListaProdutos ul li ol {
 list-style: decimal;
