@@ -249,7 +249,7 @@ main {
     max-height: 400px;
 }
 
-.containerProdutos aside section > img {
+.containerProdutos aside section>img {
     margin: 40px 0px;
     width: 60px;
     height: 60px;
@@ -347,18 +347,13 @@ main {
     height: 12px;
 }
 
-.divQuantidadeEBotao{
+.divQuantidadeEBotao {
     display: flex;
     flex-direction: column;
     height: 100%;
     justify-content: space-between;
     align-items: center;
 }
-
-.quantidadeDeItem {
-    
-}
-
 
 
 
@@ -427,15 +422,3 @@ main {
         overflow-x: auto;
     }
 }
-
-/* 
-<aside>
-        <div>
-          <img src="./src/img/carrinho.png" alt="Imagem de um carrinho de compras">
-          <p>Carrinho</p>          
-        </div>
-        <section class="listaCarrinho">
-          <img src="./src/img/shopping-bag.png" alt="Carrinho vazio">
-          <p>Por enquanto não temos produtos no carrinho</p>
-        </section>
-</aside> */
